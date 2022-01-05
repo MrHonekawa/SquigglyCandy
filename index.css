@@ -63,3 +63,10 @@ p {
     filter: url("#squiggly-4");
   }
 }
+audio{
+  background-color: #fff;
+}
+audio:hover{
+  background-color: yellowgreen;
+  color: white;
+}
