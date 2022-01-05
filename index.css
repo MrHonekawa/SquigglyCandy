@@ -65,6 +65,8 @@ p {
 }
 audio{
   background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 2px 1px 3px white;
 }
 audio:hover{
   background-color: yellowgreen;
