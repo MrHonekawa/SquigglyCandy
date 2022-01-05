@@ -64,15 +64,13 @@ p {
   }
 }
 audio{
-  align-items: center
-  background-color: #fff;
-  border-radius: 50%;
+  align-items: center;
   box-shadow: 2px 1px 3px white;
   
 }
 audio:hover{
   align-items: center;
   box-shadow: 2px 1px 3px white;
-  background-color: yellowgreen;
+  background-color: purple;
   color: white;
 }
